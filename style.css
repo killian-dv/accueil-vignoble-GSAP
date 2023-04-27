@@ -9,6 +9,7 @@
 body {
   font-family: Antic Slab, sans-serif;
   background: #f1f1f1;
+  height: 100vh;
 }
 
 nav {
@@ -83,9 +84,9 @@ video {
   width: 600px;
   margin: 0 auto;
   position: relative;
-  top: 150px;
   color: #fff;
   z-index: 150;
+  top: 10vh;
 }
 .home-content h1 {
   font-family: Playfair Display, sans-serif;
